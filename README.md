@@ -1,22 +1,22 @@
-<h1 align="center">Hi, I'm Alena! 🐝➰</h1>
+<h1 align="center">Hi, I'm Alena! 🐣</h1>
 <h3 align="center">A future PROgrammer.</h3>
 
-- I'm currently on the lookout for exciting opportunities to shift my career **from medical device engineering to the world of tech!**. Here is a brief introduction about me:
+I'm currently on the lookout for exciting opportunities to shift my career **from Medical Device Engineering to the World of Tech!** Here's a brief introduction about me:
 
 - 🎓 Currently pursuing a Master's degree at Georgia Tech, specializing in [Computing Systems](https://omscs.gatech.edu/specialization-computing-systems).
   
-- 👩🏻‍🔧 With over 5 years of experience as a medical device R&D engineer, I have honed my **problem-solving skills**.
+- 👩🏻‍🔧 With over 5 years of experience as a medical device R&D engineer, I have honed my **critical thinking, problem-solving, and project management skills**.
 
-- 🌱 Passionate about programming, with a dedicated focus on studying Data Structures and Algorithms, I thoroughly enjoy documenting my study journey and would love to share my notes [here](https://alenasim.com/data-structures-and-algorithms). Hope it helps! 
+- 🌱 Passionate about programming, with a dedicated focus on studying Data Structures, Algorithms, and Object-oriented Programming, I thoroughly enjoy documenting my study journey. [Here](https://alenasim.com/data-structures-and-algorithms) is the link to my study blog with my summary notes. Hope it helps!
 
-- 📄 You can delve into my professional journey [here](https://www.linkedin.com/in/alena-sim-96220b97/)
+- 👨‍💻 Feel free to explore my portfolio and blog posts on [My Website](https://alenasim.com/)
 
-- 🤝 Actively **seeking mentorship** to better prepare myself for transitioning to tech. Look forward to connecting with fellow tech enthusiasts and learning from your expertise!
+- 📄 You can also delve into my professional journey [here](https://www.linkedin.com/in/alena-sim-96220b97/)
 
-### Blogs posts
-You can check out my latest blog posts and updates on [My Website](https://www.alenasim.com).
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🤝 Actively **seeking mentorship** to better prepare myself for transitioning to tech. I'm looking forward to connecting with fellow tech enthusiasts and learning from your expertise!
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
