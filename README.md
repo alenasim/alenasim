@@ -9,11 +9,11 @@ I'm currently on the lookout for exciting opportunities to shift my career **fro
 
 - 🌱 Passionate about programming, with a dedicated focus on studying Data Structures, Algorithms, and Object-oriented Programming, I thoroughly enjoy documenting my study journey and would love to share my notes [here](https://alenasim.com/data-structures-and-algorithms). Hope it helps!
 
-- 👨‍💻 Feel free to explore my portfolio and blog posts on [my website](https://alenasim.com/).
+- 💻 Feel free to explore my portfolio and blog posts on [my website](https://alenasim.com/).
 
 - 📄 You can also delve into my professional journey [here](https://www.linkedin.com/in/alena-sim-96220b97/).
 
-- 🤝 Actively **seeking mentorship** to better prepare myself for transitioning to tech. I'm looking forward to connecting with fellow tech enthusiasts and learning from your expertise!
+- 🙌 Actively **seeking mentorship** to better prepare myself for transitioning to tech. I'm looking forward to connecting with fellow tech enthusiasts and learning from your expertise!
 
 
 
