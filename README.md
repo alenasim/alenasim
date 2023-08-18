@@ -3,13 +3,13 @@
 
 I'm currently on the lookout for exciting opportunities to shift my career **from Medical Device Engineering to the World of Tech!** Here's a brief introduction about me:
 
-- 🎓 Currently pursuing a Master's degree at Georgia Tech, specializing in [Computing Systems](https://omscs.gatech.edu/specialization-computing-systems).
+- 🎓 Currently pursuing a Master's degree at Georgia Tech, specializing in Computing Systems.
   
-- 👩🏻‍🔧 With over 5 years of experience as a medical device R&D engineer, I have honed my **critical thinking, problem-solving, and project management skills**.
+- 👩🏻‍🔧 With 5+ years of experience as a medical device R&D engineer, I have honed **critical thinking, problem-solving, & project management** skills.
 
-- 🌱 Passionate about programming, with a dedicated focus on studying Data Structures, Algorithms, and Object-oriented Programming, I thoroughly enjoy documenting my study journey. [Here](https://alenasim.com/data-structures-and-algorithms) is the link to my study blog with my summary notes. Hope it helps!
+- 🌱 Passionate about programming, with a dedicated focus on studying Data Structures, Algorithms, and Object-oriented Programming, I thoroughly enjoy documenting my study journey and would love to share my notes [here](https://alenasim.com/data-structures-and-algorithms). Hope it helps!
 
-- 👨‍💻 Feel free to explore my portfolio and blog posts on [My Website](https://alenasim.com/)
+- 👨‍💻 Feel free to explore my portfolio and blog posts on [my website](https://alenasim.com/)
 
 - 📄 You can also delve into my professional journey [here](https://www.linkedin.com/in/alena-sim-96220b97/)
 
