@@ -3,7 +3,7 @@
 
 I'm currently on the lookout for exciting opportunities to shift my career **from Medical Device Engineering to the World of Tech!** Here's a brief introduction about me:
 
-- 🎓 Currently pursuing a Master's degree at Georgia Tech, specializing in Computing Systems.
+- 🎓 Currently pursuing a Computer Science Online Master's degree at Georgia Tech, specializing in Computing Systems.
   
 - 👩🏻‍🔧 With 5+ years of experience as a medical device R&D engineer, I have honed **critical thinking, problem-solving, & project management** skills.
 
